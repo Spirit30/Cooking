@@ -1,2 +1,2 @@
 # Cooking
-Demo game written in C#, Unity Engine.
+Game to demonstrate C# code.
